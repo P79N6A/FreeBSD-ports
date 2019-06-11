@@ -1,0 +1,5 @@
+pkg/nrpe.xml
+pkg/nrpe.inc
+/etc/inc/priv/nrpe.priv.inc
+%%DATADIR%%/info.xml
+@dir /etc/inc/priv
